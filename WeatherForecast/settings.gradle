@@ -1,0 +1,2 @@
+rootProject.name='Prove06'
+include ':app'

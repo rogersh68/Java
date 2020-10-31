@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prove06</string>
+    <string name="city_prompt">Enter a city name:</string>
+    <string name="temp_button">Current Temperature</string>
+    <string name="forecast_button">Weather Forecast</string>
+</resources>
